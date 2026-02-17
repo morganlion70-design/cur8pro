@@ -1,0 +1,24 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Our (unexited) startup portfolio &#8211; what the April &#8217;23 valuations say	</title>
+	<atom:link href="https://cur8.capital/our-unexited-startup-portfolio-what-the-april-23-valuations-say/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cur8.capital/our-unexited-startup-portfolio-what-the-april-23-valuations-say/</link>
+	<description>Invest in World-Class Private Funds</description>
+	<lastBuildDate>Wed, 23 Aug 2023 09:12:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5</generator>
+</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=1122 metric#misses=68 metric#hit-ratio=94.3 metric#bytes=661782 metric#prefetches=59 metric#store-reads=73 metric#store-writes=9 metric#store-hits=75 metric#store-misses=66 metric#sql-queries=11 metric#ms-total=156.87 metric#ms-cache=25.58 metric#ms-cache-avg=0.3158 metric#ms-cache-ratio=16.3 -->

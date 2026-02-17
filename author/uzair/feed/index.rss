@@ -1,0 +1,538 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uzair Ali | Cur8 Capital</title>
+	<atom:link href="https://cur8.capital/author/uzair/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cur8.capital</link>
+	<description>Invest in World-Class Private Funds</description>
+	<lastBuildDate>Mon, 05 Aug 2024 11:25:08 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5</generator>
+
+<image>
+	<url>https://cur8.capital/wp-content/uploads/2023/07/cropped-cur8-favicon-32x32.png</url>
+	<title>Uzair Ali | Cur8 Capital</title>
+	<link>https://cur8.capital</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Artificial Intelligence: From Model to Mind</title>
+		<link>https://cur8.capital/artificial-intelligence-from-model-to-mind/</link>
+		
+		<dc:creator><![CDATA[Uzair Ali]]></dc:creator>
+		<pubDate>Mon, 05 Aug 2024 11:23:34 +0000</pubDate>
+				<category><![CDATA[Deep Dive]]></category>
+		<category><![CDATA[Venture Capital]]></category>
+		<category><![CDATA[Venture Forwards]]></category>
+		<guid isPermaLink="false">https://cur8.capital/?p=2410</guid>
+
+					<description><![CDATA[The Toddler Years Imagine a time when computers were like toddlers learning to speak their...]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">The Toddler Years</h2>
+
+
+
+<p></p>
+
+
+
+<p>Imagine a time when computers were like toddlers learning to speak their first words, first words being Artificial Intelligence in this case. This was the era before 2012, when most AI technologies struggled to perform basic tasks.&nbsp;</p>
+
+
+
+<p>Scientists and engineers were like patient parents, teaching computers simple AI tricks. Progress was incremental, and many people doubted that AI could ever become truly useful on a large scale.&nbsp;</p>
+
+
+
+<p><a href="https://www.ibm.com/topics/deep-learning#:~:text=Deep%20learning%20is%20a%20subset,applications%20in%20our%20lives%20today.">Deep learning</a>, a subset of machine learning, had existed for decades but had limited success due to insufficient computational power and data. However, around 2012, advancements in hardware (particularly GPUs), the availability of large datasets, and novel algorithms led to a renaissance in AI.&nbsp;</p>
+
+
+
+<p>Researchers discovered that deep learning techniques could significantly improve performance across various tasks, such as image recognition and <a href="https://www.techtarget.com/searchenterpriseai/definition/natural-language-processing-NLP#:~:text=Natural%20language%20processing%20(NLP)%20is,in%20the%20field%20of%20linguistics.">natural language processing</a>. It was like discovering a new way to teach our toddler AI, enabling it to learn faster and better. That said, you still needed different models for different modes, meaning a specific model for text, another one for images, and another one for video.</p>
+
+
+
+<p>Between 2012 and 2018, scientists around the world worked tirelessly, driven by their curiosity and passion. They wrote research papers and collaborated, much like a group of wizards sharing their secret spells. In 2017, a particularly powerful spell was developed at Google Brain. It was called the <a href="https://www.ibm.com/topics/transformer-model#:~:text=Transformer%20models%20work%20by%20processing,down%20into%20several%20key%20steps.">Transformer model</a> which considers the relevance of each word or phrase it encounters based on the surrounding context, not just direct cues. The Transformer architecture introduced mechanisms that led to big breakthroughs. Also, you could now use one model for multiple modes, be it text, image, or video.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Enter ChatGPT</h2>
+
+
+
+<p></p>
+
+
+
+<p>The transformer architecture is the cornerstone for many recent advancements in AI, including <a href="https://chatgpt.com/">ChatGPT</a>. GPT literally stands for Generative Pre-Trained Transformers<strong>.</strong></p>
+
+
+
+<p>Starting with GPT-2 in 2019, each new version of GPT became smarter and more impressive. Developers eagerly adopted these models, witnessing gradual but significant improvements. However, the true &#8220;AHA!&#8221; moment arrived in late 2022. This was when ChatGPT&#8217;s capabilities reached a level where it could truly wow consumers with its intelligence and usability. This was the moment generative AI stepped out into the world, no longer just an experiment, but a part of our collective digital future.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="720" height="570" src="https://cur8.capital/wp-content/uploads/2024/08/0bZxY-YzCbFQZO9XS.webp" alt="" class="wp-image-2412"/></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Data is NOT the new oil. IT&#8217;S MUCH MORE VALUABLE</h2>
+
+
+
+<p></p>
+
+
+
+<p>Data is what fuels an AI&#8217;s learning journey.&nbsp;</p>
+
+
+
+<p>Imagine a young student who thrives on a steady diet of books and learning materials. The more data our AI has, the faster and smarter it can become.&nbsp;</p>
+
+
+
+<p>There are two ways to make our AI models smarter: by making the models bigger, i.e by increasing compute, and by giving them lots of good-quality data to learn from.</p>
+
+
+
+<p>But you don’t always have data. </p>
+
+
+
+<p>Some problems are like complex puzzles that even the smartest student, or the smartest AIs can’t solve right away. So, researchers are teaching AI to learn by experimenting and trying again—much like a child learning through play. This method, called <a href="https://aws.amazon.com/what-is/reinforcement-learning/#:~:text=Reinforcement%20learning%20(RL)%20is%20a,use%20to%20achieve%20their%20goals.">reinforcement learning</a>, helps AI models get smarter without needing every answer handed to them.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">The AI Gold Rush: Big Tech&#8217;s Battle for Supremacy</h2>
+
+
+
+<p></p>
+
+
+
+<p>Imagine a thrilling race where the competitors are powerful AI models from different companies.&nbsp; Right now, you have all the <a href="https://en.wikipedia.org/wiki/Big_Tech">Big Tech</a>, each with their own strengths and weaknesses, competing for the podium. For instance, Google Gemini is great at creating stories, while ChatGPT excels at answering questions.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="972" height="623" src="https://cur8.capital/wp-content/uploads/2024/08/Big-Tech-Companies-Investing-in-Generative-AI-Startups.jpg" alt="" class="wp-image-2413"/></figure>
+
+
+
+<p></p>
+
+
+
+<p><strong>But who will win this race?</strong>&nbsp;</p>
+
+
+
+<p>It’s all about resources and talent. The companies with the most compute and the smartest teams will have the edge. It’s like a marathon where having the best shoes and the best coaches makes all the difference.</p>
+
+
+
+<p>In this race, having the best &#8220;running shoes&#8221; means having the best computer chips.&nbsp;</p>
+
+
+
+<p>Companies like NVIDIA are making these chips that can handle large parallel tasks and process large datasets. Some companies, like Google, leverage their TPU chips that are optimised for transformer architecture–the very model behind GPT. It’s like having a secret weapon that gives them a competitive advantage.</p>
+
+
+
+<p>Apple is like the dark horse in this race. While others are focused on big, powerful models, Apple is working on smaller, smarter models that can run on your phone. Imagine having a tiny genius in your pocket, helping you with everyday tasks. This could change the game, allowing smart AI to be accessible to everyone, everywhere.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Reasoning is what makes AI human</h2>
+
+
+
+<p></p>
+
+
+
+<p>The ultimate prize in this AI adventure is <strong>reasoning</strong>. This is the ability to think and solve problems in a way that goes beyond just following rules. It’s like teaching our AI to not just learn facts but to understand and create new ideas.</p>
+
+
+
+<p>To achieve this, scientists are creating environments where AI can experiment and learn, much like a scientist in a lab. They’re teaching AI to not just memorise but to think, reflect, and improve. This is a big challenge and opens the doors to exciting research and innovative approaches.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Works Cited</h2>
+
+
+
+<h6 class="wp-block-heading"><a href="https://techstartups.com/2024/02/02/cash-strapped-ai-startups-seek-mergers-and-acquisitions-to-survive-amid-rising-costs-is-the-ai-dream-over-for-startups/">Cash-strapped AI startups seek mergers &amp; acquisitions to survive amid rising costs: Is the AI dream over for startups?</a></h6>
+
+
+
+<h6 class="wp-block-heading"><a href="https://ai.plainenglish.io/chat-gpt-achieving-100-million-users-in-just-2-month-a-deep-analysis-a453e6f85acf">Chat GPT: Achieving 100 Million Users in Just 2 Month — A Deep Analysis</a></h6>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Venture Forwards: Invest or Miss Out</title>
+		<link>https://cur8.capital/venture-forwards-invest-or-miss-out/</link>
+					<comments>https://cur8.capital/venture-forwards-invest-or-miss-out/#respond</comments>
+		
+		<dc:creator><![CDATA[Uzair Ali]]></dc:creator>
+		<pubDate>Tue, 06 Feb 2024 12:39:03 +0000</pubDate>
+				<category><![CDATA[Venture Capital]]></category>
+		<category><![CDATA[Venture Forwards]]></category>
+		<guid isPermaLink="false">https://cur8.capital/?p=2205</guid>
+
+					<description><![CDATA[Salaam, it’s Uzair from Cur8 Capital, I lead our venture capital investing. I&#8217;m starting this...]]></description>
+										<content:encoded><![CDATA[
+<p>Salaam, it’s Uzair from Cur8 Capital, I lead our venture capital investing. I&#8217;m starting this series, <em>Venture Forwards,</em> to share some of our insights on the venture landscape and the various sectors we&#8217;re exploring. To sum it up, a platform shift is underway, and you do not want to sit this one out. Great companies are founded in these choppy times, but most people don’t invest in them &#8211; I’m here to convince you otherwise. </p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Reflect, then advance&#8230;</h2>
+
+
+
+<p>2023 was a challenging year for venture capital. Even though ZIRP (zero interest rate policy) ended in early 2022, because of delayed effects, 2023 became the year when ZIRP funded startups <a href="https://www.youtube.com/watch?v=5ynVF2eRwZI&amp;t=1339s&amp;ab_channel=ThisWeekinStartups&amp;themeRefresh=1"><strong>finally started to shut down</strong></a> <em>(This Week in Startups, 2024)</em>.</p>
+
+
+
+<p><br>The primary reason for the delayed onset of shutdowns was that a lot of cash was accumulated by big startups, giving them enough funds to last well into 2023. It&#8217;s only now that they&#8217;ve run out of cash. Per carta, c.1.5k companies died in 2023, which is the <a href="https://www.vccafe.com/2023/09/28/startup-death-rates-spike-as-we-approach-q4-2023/"><strong>largest death toll</strong></a><strong> for startups since the dot-com crash</strong>.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="904" height="502" src="https://cur8.capital/wp-content/uploads/2024/02/startup-shutdowns.png" alt="" class="wp-image-2210"/></figure>
+
+
+
+<p>At Cur8, we primarily do pre-seed/seed investments, with an investment horizon of 5 to 7 years or longer, and short-term fluctuations in the broader tech market have a less immediate impact on us.&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p>In fact, we saw that seed valuations increased as multi-stage funds started infusing capital at the seed-stage (because late-stage markets were illiquid), valuations which would have otherwise fallen in line with late stage venture.&nbsp;</p>
+
+
+
+<p>Moreover, we started investing out of our EIS fund late in 2022 only, another reason <strong>why we have been relatively insulated </strong>from the reckoning. That said, a healthy venture market, especially later stage venture, means more follow-on opportunities for the companies we’ve funded, thus we are keeping a close eye on the space.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Looking 2024: a future filled with promise</h2>
+
+
+
+<p></p>
+
+
+
+<p>We expect startups to continue shutting down in 2024, but are confident that <strong>the worst is behind us</strong>. We are already noticing signs of the <strong>sentiment trending back up.</strong> Valuations are now back at 5 and 10 year averages, and publicly listed tech is showing signs of recovery &#8211; setting the stage for an exciting 2024.&nbsp;</p>
+
+
+
+<p>We definitely see the IPO markets opening up over 2024, and 2025 &#8211; with effects trickling down to venture.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="904" height="762" src="https://cur8.capital/wp-content/uploads/2024/02/tech-multiples-have-normalised.png" alt="" class="wp-image-2212"/></figure>
+
+
+
+<p>(Ibarra, 2024)</p>
+
+
+
+<p></p>
+
+
+
+<p>Our view is that interest rates will remain high throughout 2024, continuing to put downward pressure on valuations. We think that when the IPO markets open up again, multi-stage firms will go back to investing in later-stage companies. This will leave <strong>more opportunities</strong> for firms like Cur8 to get involved in deals. Consequently, we’ll have a chance to secure good returns with deals available at attractive valuations.&nbsp;</p>
+
+
+
+<p>Putting aside the medium-term macro trends, what really excites us the most about 2024 are the <strong>big platform shifts underway</strong>. Let&#8217;s discuss the two we are most looking forward to.&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p><strong>AI Takes Off</strong></p>
+
+
+
+<p></p>
+
+
+
+<p>With 180M+ users, and 1.5B + website visitors per month, it&#8217;s safe to say ChatGPT showed everyone the power of <strong>Artificial Intelligence (AI) </strong>first hand. Generative AI has evolved from applications that merely processed and generated text to ones that can execute multiple tasks across domains. 2023 saw rapid growth and developer adoption for Large Language Models (LLMs), setting the stage for the application layer to emerge &#8211; and <strong>here is where things get exciting</strong> &#8211; think how the PC revolutionised personal computing, or how the iPhone gave way to the Apps.</p>
+
+
+
+<p></p>
+
+
+
+<p>The AI boom has brought high valuations with it. Many AI companies have term sheets similar to the ZIRP era. At Cur8, we were/are weary of this massive bubble in AI inception rounds since Q1 2023.&nbsp;</p>
+
+
+
+<p><br>That said, we’re now seeing AI valuations sobering up a bit. Our thinking is that AI will play out over decades, and not over a couple of months or years. Thus, although the pipeline is <strong>bustling with AI ops</strong>, we are always on the lookout for an asymmetric risk reward ratio when investing, <strong>staying in the game</strong> while studying and understanding the space.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="904" height="544" src="https://cur8.capital/wp-content/uploads/2024/02/ai-50-2023.png" alt="" class="wp-image-2214"/></figure>
+
+
+
+<p></p>
+
+
+
+<p>Although startups are utilising advancements in artificial intelligence (AI) to challenge established industries and create entirely new markets, existing companies are showcasing <strong>extraordinary speed</strong> in product development and a willingness to experiment like never before. Microsoft, Amazon, Shopify, Adobe Firefly, and GitHub Co-Pilot etc have all integrated AI into their user experiences at impressive speed.&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p>For us as investors, this means the age old adage that ‘<strong>incumbents are slow</strong>’<strong> </strong>is not playing out when it comes to AI.</p>
+
+
+
+<p></p>
+
+
+
+<p>Lastly, we learnt that <strong>Data and Information hygiene</strong> is critical for a company to capitalise on this trend, and make the most out of it. To this end, we now look at this when making a new investment whilst nudging our portfolio companies to be well positioned in this regard.</p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Climate Tech: Finally Taking the Stage</strong></p>
+
+
+
+<p></p>
+
+
+
+<p>A fast follower to Artificial Intelligence is the <strong>new energy stack, </strong>aka Climate Tech. Climate tech startups have been around for quite some time now, and we at Cur8 have been investing in them for the past few years.&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p>That said, a lot has changed in 2023, which is why we believe 2024 will be a blockbuster year for Climate Tech startups. Specifically, scientists have reached a broad consensus around the severity of the challenge, followed by quickly shifting public awareness, and finally the global commitments to Net Zero have been cemented by government legislation (like the Inflation Reduction Act in the US). These developments make us very optimistic.</p>
+
+
+
+<p></p>
+
+
+
+<p>At Cur8, we&#8217;ve been busy in this arena, investing in Isometric (formerly Exponential) and Staze. We&#8217;ve kicked off 2024 with an exciting deal in Climate Tech only (to be announced soon) and have many more opportunities in our pipeline.&nbsp;</p>
+
+
+
+<p><br>Our investment strategy here is to <strong>balance</strong> long term investments in moonshot technologies (think, tech that sucks carbon out of the sky, emerging lithium-ion battery alternatives) with investments in startups that are utilising proven tech in new ways to address the climate challenge.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="904" height="832" src="https://cur8.capital/wp-content/uploads/2024/02/vgb-insights.png" alt="" class="wp-image-2215"/></figure>
+
+
+
+<p></p>
+
+
+
+<p><strong>What does this mean for you?</strong></p>
+
+
+
+<p></p>
+
+
+
+<p>As history has shown, this is a great time for founders to start a company, and for investors to back companies. The environment is just <strong>much more rational</strong> (profit vs growth) for quality founders to build huge companies.&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p>The capital constraints mean these founders would pursue <strong>sustained growth</strong>, competition is <strong>low</strong>, talent is <strong>more affordable</strong> and <strong>available</strong> and <strong>knows no borders</strong> thanks to covid, and AI has made everyone <strong>much more efficient.&nbsp;</strong></p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="904" height="530" src="https://cur8.capital/wp-content/uploads/2024/02/spx-90-recessions.png" alt="" class="wp-image-2216"/></figure>
+
+
+
+<p></p>
+
+
+
+<p>We believe <strong>this vintage will be the best vintage</strong> since the Uber, Airbnb time. At Cur8, we see tons of venture deals every week, and our team can confidently say that the environment is <strong>teeming with innovation.</strong>&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p><strong>The Cur8 EIS VC Fund</strong></p>
+
+
+
+<p></p>
+
+
+
+<p>The Cur8 EIS VC Fund is strategically investing and capitalising on the trends of Generative AI &amp; ClimateTech. For an investor, venture Capital can significantly enhance the diversification benefits and return profile of your portfolio, along with giving you a front-row seat to innovation. Although our fund is very young, we’re already ahead of curve in terms of performance, and have deployed capital across industries with 70+ investments. We offer the best in class fees along with Shariah compliance, an unparalleled offering in the market of EIS funds. Our next deployment deadline for investing in the Cur8 EIS VC Fund is <strong>29th February, 2024</strong>, &#8211; make sure to invest before then.</p>
+
+
+
+<p></p>
+
+
+
+<p>I hope you found this insightful. For ideas, and queries, feel free to email me at uzair@cur8.capital</p>
+
+
+
+<p><br>Don’t invest unless you’re prepared to lose all the money you invest. This is a high‑risk investment and you’re unlikely to be protected if something goes wrong. <a href="https://cur8.capital/risk-warning">Take 2 mins to learn more</a>.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Works Cited</h2>
+
+
+
+<p><a href="https://www.saastr.com/the-state-of-saas-stalled-growth-is-starting-to-rebound-with-altimeter-capital-partner-jamin-ball/." data-type="link" data-id="https://www.saastr.com/the-state-of-saas-stalled-growth-is-starting-to-rebound-with-altimeter-capital-partner-jamin-ball/.">Ibarra, Amelia. “The The State of SaaS with Altimeter Capital Partner Jamin Ball.” <em>SaaStr</em>, 2024</a>, Accessed 5 February 2024.</p>
+
+
+
+<p></p>
+
+
+
+<p><a href="https://24915384.fs1.hubspotusercontent-eu1.net/hubfs/24915384/Inovia-StateofCanadianSaaSReport%20(2023).pdf" data-type="link" data-id="https://24915384.fs1.hubspotusercontent-eu1.net/hubfs/24915384/Inovia-StateofCanadianSaaSReport%20(2023).pdf" target="_blank" rel="noreferrer noopener">Inovia.vc. <em>State of Canadian Software Report</em>. 2024. <em>inovia.vc</em></a>.</p>
+
+
+
+<p></p>
+
+
+
+<p><a href="https://foundersfactory.com/articles/climate-thesis/" data-type="link" data-id="https://foundersfactory.com/articles/climate-thesis/">“Our thesis on climate.” <em>Founders Factory</em>, 16 November 2023</a>, Accessed 5 February 2024.</p>
+
+
+
+<p></p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=5ynVF2eRwZI&amp;t=1339s." data-type="link" data-id="https://www.youtube.com/watch?v=5ynVF2eRwZI&amp;t=1339s.">This Week in Startups. “Bill Gurley, Brad Gerstner, &amp; Jason Calacanis on the state of tech markets, hosted by David Weisburd.”</a> <em>YouTube</em>, 2024,  Accessed 29 1 2024.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cur8.capital/venture-forwards-invest-or-miss-out/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=1358 metric#misses=71 metric#hit-ratio=95.0 metric#bytes=727276 metric#prefetches=92 metric#store-reads=77 metric#store-writes=7 metric#store-hits=104 metric#store-misses=66 metric#sql-queries=9 metric#ms-total=360.15 metric#ms-cache=130.13 metric#ms-cache-avg=1.5679 metric#ms-cache-ratio=36.1 -->
